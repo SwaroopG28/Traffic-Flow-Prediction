@@ -68,12 +68,3 @@ The most significant features for traffic flow prediction:
 The Traffic Flow Prediction project highlights how vehicle counts, time, and day influence traffic patterns. It provides insights for managing urban traffic effectively by predicting congestion, optimizing signal timings, and scheduling public transport.  
 
 This project contributes to building smarter cities by enabling dynamic traffic management, reducing emissions, and improving transportation systems, ultimately supporting sustainable urban mobility.  
-
----
-
-## Installation  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/traffic-flow-prediction.git
-   cd traffic-flow-prediction
